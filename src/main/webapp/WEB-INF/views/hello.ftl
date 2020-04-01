@@ -5,6 +5,9 @@
     <title>My First SpringApp</title>
 </head>
 <body>
-<h1>Hello world!</h1>
+<h1>I'm firs template!!!</h1>
+<p>
+    <a href="/">Go to main page</a>
+</p>
 </body>
 </html>
